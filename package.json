@@ -1,7 +1,7 @@
 {
-  "name": "aframe-react-boilerplate",
+  "name": "vr-movies",
   "version": "3.0.1",
-  "description": "Boilerplate for building virtual reality experiences with A-Frame and React.",
+  "description": "VR Movies built with A-Frame and React.",
   "dependencies": {
     "aframe": "^0.5.0",
     "aframe-animation-component": "^3.2.5",
@@ -34,7 +34,7 @@
     "aframe-react",
     "webvr"
   ],
-  "author": "Kevin Ngo <kngo@mozilla.com>",
+  "author": "Prashant Andani <prashant.andani@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ngokevin/aframe-react-boilerplate/issues"
