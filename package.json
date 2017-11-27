@@ -5,8 +5,10 @@
   "dependencies": {
     "aframe": "^0.5.0",
     "aframe-animation-component": "^3.2.5",
+    "aframe-event-set-component": "^4.0.1",
     "aframe-particle-system-component": "^1.0.8",
     "aframe-react": "^4.0.x",
+    "aframe-text-geometry-component": "^0.5.1",
     "babel-polyfill": "^6.3.14",
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
@@ -21,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ngokevin/aframe-react-boilerplate.git"
+    "url": "git+https://github.com/prashant-andani/webvr-movies.git"
   },
   "keywords": [
     "aframe",
@@ -37,9 +39,9 @@
   "author": "Prashant Andani <prashant.andani@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ngokevin/aframe-react-boilerplate/issues"
+    "url": "https://github.com/prashant-andani/webvr-movies/issues"
   },
-  "homepage": "https://github.com/ngokevin/aframe-react-boilerplate#readme",
+  "homepage": "https://github.com/prashant-andani/webvr-movies#readme",
   "devDependencies": {
     "gh-pages": "^0.12.0"
   }
