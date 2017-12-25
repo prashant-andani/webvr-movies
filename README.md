@@ -23,4 +23,4 @@ npm run publish
 
 Screenshot
 
-! [screenshot] (https://github.com/prashant-andani/webvr-movies/blob/master/assets/screenshot.png?raw=true)
+![Screeshot](https://github.com/prashant-andani/webvr-movies/blob/master/assets/screenshot.png?raw=true)
