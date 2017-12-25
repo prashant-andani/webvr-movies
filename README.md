@@ -20,3 +20,7 @@ To publish to GitHub Pages:
 ```bash
 npm run publish
 ```
+
+Screenshot
+
+![screenshot] (https://github.com/prashant-andani/webvr-movies/blob/master/assets/screenshot.png?raw=true)
